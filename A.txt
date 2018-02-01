@@ -2,7 +2,7 @@ void main(){
 return 2018;
 }
 
-void func1(){
+void func1goodname(){
 }
 
 void func2(){
